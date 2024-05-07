@@ -1,3 +1,12 @@
+<!--
+File: index.html
+Author: Bátki Zoltán Krisztián
+Copyright: 2024, Bátki Z. Krisztián
+Group: Szoft I-1-N
+Date: 2024-05-07
+Github: https://github.com/BZKrisztian
+Licenc: --
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,23 +17,22 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-    <table class="table table-striped">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Cím</th>
-                <th>Szerző</th>
-                <th>Ár</th>
-            </tr>
-        </thead>
-        <tbody id="bookBody">
-
-        </tbody>
-    </table>
-
-
-
+    <div class="container">
+        <h1>Books</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody id="bookBody">
+            </tbody>
+        </table>
+    </div>
+    
 <script type="module" src="app.js"></script>    
 </body>
 </html>

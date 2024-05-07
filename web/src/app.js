@@ -1,3 +1,12 @@
+/*
+* File: app.js
+* Author: Bátki Zoltán Krisztián
+* Copyright: 2024, Bátki Z. Krisztián
+* Group: Szoft I-1-N
+* Date: 2024-05-07
+* Github: https://github.com/BZKrisztian
+* Licenc: --
+*/
 const doks = {
     bookBody: document.querySelector('#bookBody')
 }
