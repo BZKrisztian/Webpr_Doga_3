@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Hobbit",
+            "author": "JRR Tolkien",
+            "price": 6400
+        },
+        {
+            "id": 2,
+            "title": "Lord of the Rings",
+            "author": "JRR Tolkien",
+            "price": 8700
+        },
+        {
+            "id": 3,
+            "title": "Thrawn: Star Wars",
+            "author": "Timothy Zahn",
+            "price": 7500
+        },
+        {
+            "id": 4,
+            "title": "Metro",
+            "author": "Dmitry Glukhovsky",
+            "price": 9100
+        }
+    ]
+}
